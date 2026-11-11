@@ -8,42 +8,30 @@ Senior Engineer at WSAudiology · Copenhagen, Denmark. The projects and research
 
 ## Research → tools → real work
 
-| Work | The question it addresses |
-| :--- | :--- |
-| **[Principles of Earned Autonomy](https://github.com/ntholm86/principles-of-earned-autonomy)** | What makes delegation to an AI agent justified? A proposed framework connecting operator intent, observable autonomy and independent challenge. |
-| **[PEA Skills Suite](https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite)** | How can those principles become a working practice? Open agent skills for intent, improvement, verification and retained decision records. |
-| **[Agent Context Memory](https://github.com/ntholm86/agent-context-memory)** | How should agents carry context across sessions without losing human authority? A governance-first memory specification. |
+- **[Principles of Earned Autonomy](https://github.com/ntholm86/principles-of-earned-autonomy)** — What makes delegation to an AI agent justified? A proposed framework connecting operator intent, observable autonomy and independent challenge.
+- **[PEA Skills Suite](https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite)** — The working practice: open agent skills for intent, improvement, verification and retained decision records.
+- **[Agent Context Memory](https://github.com/ntholm86/agent-context-memory)** — Persistent context across sessions, without losing human authority. A governance-first memory specification.
 
 These are connected contributions, not interchangeable names. The framework is a proposal; the skills are experimental and host/model-dependent.
 
-**Inspect the evidence:** [the first reproducible pilot](https://nilsholmager.com/research/accountable-agent-pilot/) produced four functional passes, but neither PEA-labeled session applied the required trace workflow. The intended comparison is inconclusive—not a demonstrated PEA advantage.
+<details>
+<summary><strong>Inspect the evidence and limitations</strong></summary>
+
+[The first reproducible pilot](https://nilsholmager.com/research/accountable-agent-pilot/) produced four functional passes, but neither PEA-labeled session applied the required trace workflow. The intended comparison is inconclusive—not a demonstrated PEA advantage.
+
+</details>
 
 ## Ideas made tangible
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://fantasycombatmanager.com/"><img src="assets/combat.webp" alt="Fantasy Combat Manager — company management and a forest encounter" width="100%"></a>
-<br><strong><a href="https://fantasycombatmanager.com/">Fantasy Combat Manager</a></strong>
-<br>Browser strategy game.
-<br><a href="https://nilsholmager.com/work/fantasy-combat-manager/">Concept → public launch: under 2 weeks</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://nilsholmager.com/work/tickerglobe/"><img src="assets/ticker.webp" alt="TickerGlobe — European market map, country inspection and research panels" width="100%"></a>
-<br><strong><a href="https://tickerglobe.com/">TickerGlobe</a></strong>
-<br>Investment workspace. Login required.
-<br><a href="https://nilsholmager.com/work/tickerglobe/">Idea → private launch: under 3 days</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://sniffaro.com/"><img src="assets/sniffaro.webp" alt="Sniffaro — dog-walk duration, preferences and a public-park starting point" width="100%"></a>
-<br><strong><a href="https://sniffaro.com/">Sniffaro</a></strong>
-<br>Time-based dog-walk planner. Co-created with Adam Paaske.
-<br><a href="https://nilsholmager.com/work/sniffaro/">Idea → public beta: 2h 17m</a>
-</td>
-</tr>
-</table>
+<a href="https://fantasycombatmanager.com/"><img src="assets/combat.webp" alt="Fantasy Combat Manager — company management and a forest encounter" width="260"></a>
+<a href="https://nilsholmager.com/work/tickerglobe/"><img src="assets/ticker.webp" alt="TickerGlobe — European market map, country inspection and research panels" width="260"></a>
+<a href="https://sniffaro.com/"><img src="assets/sniffaro.webp" alt="Sniffaro — dog-walk duration, preferences and a public-park starting point" width="260"></a>
 
-Recorded launch milestones, not uninterrupted coding hours or claims that development stopped. The linked overviews explain the evidence and limits; they do not establish that PEA caused the delivery speed.
+- **[Fantasy Combat Manager](https://fantasycombatmanager.com/)** — Browser strategy game. [Concept → public launch: under 2 weeks.](https://nilsholmager.com/work/fantasy-combat-manager/)
+- **[TickerGlobe](https://tickerglobe.com/)** — Investment workspace; login required. [Idea → private launch: under 3 days.](https://nilsholmager.com/work/tickerglobe/)
+- **[Sniffaro](https://sniffaro.com/)** — Time-based dog-walk planner, co-created with Adam Paaske. [Idea → public beta: 2h 17m.](https://nilsholmager.com/work/sniffaro/)
+
+Recorded launch milestones, not coding-hour estimates or finished-development claims. Linked overviews explain the evidence and limits; these are not controlled measurements of PEA's effect.
 
 ## Under the hood
 

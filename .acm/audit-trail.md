@@ -56,3 +56,32 @@ full argument on original sources rather than copy it into the profile.
 
 Destination need: not triggered - approved proposal fixes current scope.
 Orientation freshness: current - no prior orientation; current evidence governs.
+
+### Publication checkpoint
+
+Created the public username-matching repository and pushed source6abf398.
+The token's missing user scope blocked the bio API, so the existing authenticated
+browser saved it instead; the public API independently confirmed the exact bio.
+No token scope expansion or new login was required.
+Replaced Work Skill with Vectorium Engine and saved the exact six-item order.
+GitHub GraphQL independently confirmed all six in the approved order.
+The reorder control's overlaid pointer target caused a timeout; invoking the
+actual existing button via DOM click saved the order, rather than faking state.
+
+Rendered six1280x640 PNGs,36,633–48,748bytes each, from the committed shared
+template. The first upload appeared absent when checking only its form; the
+saved image is a sibling CSS background. Reopening settings verifies persistence.
+Remaining preview uploads are executing through the same native file input.
+
+[!REVERSAL] Live390px inspection showed the initial three-column product table
+compressed screenshots to75px and wrapped captions excessively, despite no
+horizontal overflow. Replaced tables with readable lists and naturally wrapping
+260px screenshot links; moved the detailed negative result into a labeled native
+disclosure rather than burying it or letting it dominate the introduction.
+The honest experimental status and original public evidence remain linked.
+Desktop/mobile images decoded correctly; final layout will be rechecked.
+
+The three screenshot assets are unchanged copies of the owner's approved
+website samples: combat-720.webp, ticker-dashboard-720.webp, sniffaro-720.webp.
+Sniffaro preserves Adam Paaske's co-creator credit and TickerGlobe its login gate.
+No original project source, thesis, skill contract or unrelated worktree changed.
