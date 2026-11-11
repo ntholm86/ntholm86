@@ -522,3 +522,11 @@ profile body content. Encode the uncropped 2058x764 master at WebP quality
 Prediction: public desktop/mobile show the selected composition without crop
 or overflow; exact public asset bytes match local; README body stays unchanged.
 No other profile settings, website or research claims change.
+
+Published a7a5f73. Actual public profile passed 1280px and 390px checks:
+2058x764 decoding, rendered widths 846px/308px, no horizontal overflow.
+Inspected both actual-size screenshots: selected circular observatory
+composition retained without cropping. Full-size link exercised successfully;
+fine discoveries naturally require opening that image on a phone.
+Raw public bytes exactly equal the 869,698-byte local asset. Committed README
+body after line 1 is unchanged. Prediction met; no new generation was needed.
