@@ -1,4 +1,4 @@
-<a href="https://nilsholmager.com/"><img src="assets/header.svg" width="100%" alt="Nils Holmager — Software engineering. Accountable AI. Ideas made tangible."></a>
+<a href="https://github.com/ntholm86/ntholm86/blob/main/assets/workshop-banner.webp"><img src="assets/workshop-banner.webp" width="100%" alt="Nils Holmager's illustrated invention workshop: a colorful idea machine, helper automatons, a decision ledger, a forest game world, a connected globe and a dog-walking garden. Open to explore the full-size illustration."></a>
 
 I build software people can use, and research how AI systems can do work people can take responsibility for.
 

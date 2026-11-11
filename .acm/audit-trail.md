@@ -107,3 +107,55 @@ Prediction met for presentation and saved public settings; no claim of
 increased reach or independent adoption follows from these checks.
 The known blind spot remains visitor comprehension rather than rendering.
 No new workstream is needed to finish this request.
+
+## 2026-11-11 — illustrated-workshop-banner
+
+- target: profile banner only
+- operator: Nils Wendelboe Holmager
+- agent: model identity not exposed; Copilot SDK in VS Code
+- skill: Intent, Improve, Engineering Preferences
+- outcome: pre-generation checkpoint
+
+The owner rejected the minimalist banner and requested colorful, detailed,
+gamified illustration with discoveries like the PEA machine. Interpretation:
+an explorable engineering workshop, not another typography-and-circles variant.
+The requested Flare2.5 selector is unavailable; the owner explicitly approved
+"Use the available image generator" before any generation.
+
+[!REVERSAL] The prior claim that restraint alone served this profile's visual
+identity was wrong for the banner: successful layout tests did not establish
+the owner's desired visual quality. Keep the approved text/pins/previews unchanged.
+[!DECISION] Create an original panoramic invention workshop, using the supplied
+PEA illustration as a composition/detail reference, not copying its characters
+or distinctive machinery. Preserve rich color, mature craftsmanship and clear
+large silhouettes. Precedent: owner feedback overrides prior banner choice.
+
+Prediction: one illustrated image should read as a connected world at profile
+width while offering larger discoveries on opening. Verify source/image decoding,
+desktop and phone rendering and unchanged surrounding content before completion.
+Generation output and publication evidence will be appended after execution.
+Blind spot: taste cannot be proven by geometry; the owner may reject the image.
+
+- *Recurring finding-class:* not fired - one direct banner rejection on this repo.
+- *About to declare silence:* not fired - replacement explicitly requested.
+- *Contradicts prior realization:* fired - hierarchy alone was not enough;
+  the entire short trail confirms mechanical checks missed desired atmosphere.
+- *Operator explicitly asked:* not fired - requested artwork, not arc reflection.
+
+Arc reflection: mobile readability improvements aged well; equating a restrained
+identity with the owner's meaning of polish did not. The governing mandate is
+now explicit, so no additional direction interview is needed.
+Destination need: not triggered - banner direction and generator approval clear.
+Orientation freshness: current - no stored orientation; current feedback governs.
+
+### Generated image and publication decision
+
+The approved generator returned one original2058x764 panorama: an inventor,
+colorful enamel-and-glass machinery, helper automatons, decision ledger,
+forest miniature, globe and walking garden. The nameplate reads Nils Holmager.
+Inspected the complete output before integration. Encoded an uncropped WebP
+at quality0.91,741,878bytes. The generated PNG remains in the session artifacts.
+The profile image now opens its full-size GitHub image page for exploration,
+with descriptive alternative text. Removed the superseded minimalist SVG.
+No bio, pin, repository preview, research claim or other README text changed.
+Public rendering/decoding remains to be verified after this commit is pushed.
