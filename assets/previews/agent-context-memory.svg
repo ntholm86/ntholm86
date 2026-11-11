@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#f3f6fa"/>
+<path d="M1056 0h224v640h-224z" fill="#e1e9fc"/>
+<circle cx="1168" cy="320" r="86" fill="none" stroke="#7655b5" stroke-width="2"/>
+<circle cx="1168" cy="234" r="12" fill="#7655b5"/>
+<circle cx="1168" cy="320" r="22" fill="#7655b5"/>
+<path d="M64 60h32" stroke="#7655b5" stroke-width="5"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="112" y="66" fill="#354a5b" font-size="17" font-weight="700">NILS WENDELBOE HOLMAGER</text>
+<text x="64" y="160" fill="#7655b5" font-size="18" font-weight="700" letter-spacing="2">03 / MEMORY SPECIFICATION</text>
+<text x="60" y="270" fill="#172633" font-size="72" font-weight="700" letter-spacing="-2">Agent Context</text>
+<text x="60" y="352" fill="#172633" font-size="72" font-weight="700" letter-spacing="-2">Memory</text>
+<text x="64" y="448" fill="#354a5b" font-size="27">Persistent context. Human authority.</text>
+<path d="M64 524h928" stroke="#ced8e5"/>
+<text x="64" y="574" fill="#7655b5" font-size="19">NILSHOLMAGER.COM</text>
+<text x="992" y="574" text-anchor="end" fill="#354a5b" font-size="16">OPEN RESEARCH + ENGINEERING</text>
+</g></svg>

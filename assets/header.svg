@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Nils Holmager</title>
+  <desc id="description">Software engineering. Accountable AI. Ideas made tangible.</desc>
+  <rect width="1280" height="360" rx="20" fill="#f3f6fa"/>
+  <path d="M968 0h312v360H968z" fill="#e1e9fc"/>
+  <circle cx="1124" cy="180" r="112" fill="none" stroke="#214bd6" stroke-width="2"/>
+  <circle cx="1124" cy="180" r="68" fill="none" stroke="#008b83" stroke-width="2"/>
+  <path d="M992 180h264m-132-132v264" stroke="#214bd6" stroke-opacity=".18"/>
+  <circle cx="1124" cy="68" r="12" fill="#214bd6"/>
+  <circle cx="1192" cy="180" r="9" fill="#008b83"/>
+  <circle cx="1124" cy="180" r="19" fill="#7655b5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="65" font-size="15" font-weight="700" letter-spacing="3" fill="#214bd6">RESEARCH / ENGINEERING / DELIVERY</text>
+    <text x="52" y="156" font-size="68" font-weight="700" letter-spacing="-2" fill="#172633">Nils Holmager</text>
+    <text x="56" y="214" font-size="28" fill="#354a5b">Software engineering. Accountable AI.</text>
+    <text x="56" y="261" font-size="28" fill="#354a5b">Ideas made tangible.</text>
+    <text x="56" y="321" font-size="16" fill="#214bd6">NILSHOLMAGER.COM</text>
+  </g>
+</svg>
