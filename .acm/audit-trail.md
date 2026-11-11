@@ -159,3 +159,16 @@ The profile image now opens its full-size GitHub image page for exploration,
 with descriptive alternative text. Removed the superseded minimalist SVG.
 No bio, pin, repository preview, research claim or other README text changed.
 Public rendering/decoding remains to be verified after this commit is pushed.
+
+### Verified outcome
+
+Published66f3280. Actual GitHub profile checks passed at1280px and390px:
+the new banner decoded2058x764 and rendered846px/308px respectively without
+horizontal overflow or cropping. Inspected both captured actual-size images.
+Large machinery, nameplate and world silhouettes remain recognizable; tiny
+discoveries naturally require opening the linked full-size image on a phone.
+That link was exercised successfully. Raw public bytes exactly match the
+local741,878-byte asset. The README body after its first line is byte-for-byte
+unchanged from the preceding commit. No further image generation was needed.
+This satisfies the rendering prediction, not a claim that the owner will prefer
+the artwork; their aesthetic judgment remains authoritative.
