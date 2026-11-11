@@ -85,3 +85,25 @@ The three screenshot assets are unchanged copies of the owner's approved
 website samples: combat-720.webp, ticker-dashboard-720.webp, sniffaro-720.webp.
 Sniffaro preserves Adam Paaske's co-creator credit and TickerGlobe its login gate.
 No original project source, thesis, skill contract or unrelated worktree changed.
+
+### Final verification and outcome
+
+Source57e3603 is public. Reopened repository settings verified all six preview
+uploads persisted; GraphQL reports usesCustomOpenGraphImage=true on exactly
+the six intended repositories. Independently fetched saved PNG bytes match
+the committed originals by SHA256. The bio and pin order were independently
+verified through the public API, not merely the edit form.
+
+The actual public profile passed desktop1280px, phone390px and dark-theme
+checks: all four images decoded, no README horizontal overflow, no tables,
+all product screenshots260px wide rather than the original75px phone columns.
+The native evidence disclosure opens/closes and retains the inconclusive result.
+Final desktop/mobile screenshots were inspected. All17 unique external
+destinations respond as intended:16HTTP200 and TickerGlobe's expected401.
+The owner's website, publications, real source projects and co-creator credit
+remain intact. No social post, message or further model experiment was run.
+
+Prediction met for presentation and saved public settings; no claim of
+increased reach or independent adoption follows from these checks.
+The known blind spot remains visitor comprehension rather than rendering.
+No new workstream is needed to finish this request.
