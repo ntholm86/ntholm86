@@ -1,4 +1,4 @@
-<a href="https://github.com/ntholm86/ntholm86/blob/main/assets/workshop-music-banner.webp"><img src="assets/workshop-music-banner.webp" width="100%" alt="Nils Holmager's imagined engineering workshop: an amber acoustic guitar, golden singing canary, hearing-aid workbench, stylized cardiac-device exhibits, colorful idea machinery, helper automatons, a ledger, miniature game world, connected globe and walking garden. Open to explore the full-size illustration."></a>
+<a href="https://github.com/ntholm86/ntholm86/blob/main/assets/living-observatory-banner.webp"><img src="assets/living-observatory-banner.webp" width="100%" alt="Nils Holmager's Living Observatory: an inventor at his desk beside one interconnected musical idea engine, with golden strings, a singing canary, acoustic receiver, luminous pulse chambers, miniature worlds and a suspended globe. Open to explore the full-size illustration."></a>
 
 I build software people can use, and research how AI systems can do work people can take responsibility for.
 

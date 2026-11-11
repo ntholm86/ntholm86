@@ -500,3 +500,25 @@ are visual storytelling, not mechanically validated designs.
 Destination need: not triggered - latest correction settles this iteration.
 Orientation freshness: current - no stored orientation; this entry supersedes
 the previous prohibition on recognizable objects.
+
+## 2026-11-11 — living-observatory-selection
+
+- target: public profile banner only
+- operator: Nils Wendelboe Holmager
+- agent: model identity not exposed; Copilot SDK in VS Code
+- outcome: selected variation 2; publication verification pending
+
+The owner approved the integrated laboratory direction, requested three
+variations, then chose "nr 2": The Living Observatory. Use the exact second
+generated master, not the third variation recommended by the assistant.
+Its circular resonant core, integrated strings and pulse chambers preserve
+recognizable concepts while sharing one mechanical structure. The first
+variation is the closest direct refinement; the third grows into a conservatory.
+
+[!DECISION] Publish the owner's selected second image with no regeneration
+or further creative changes. Keep the existing full-size image link and all
+profile body content. Encode the uncropped 2058x764 master at WebP quality
+0.91 (869,698 bytes); remove the superseded asset, retained in history.
+Prediction: public desktop/mobile show the selected composition without crop
+or overflow; exact public asset bytes match local; README body stays unchanged.
+No other profile settings, website or research claims change.
