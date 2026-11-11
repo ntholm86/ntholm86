@@ -433,3 +433,70 @@ publication should follow owner judgment, not another layout test.
 Destination need: not triggered - current correction settles this concept.
 Orientation freshness: current - no stored orientation; this entry explicitly
 supersedes the prior literal-object approach.
+
+## 2026-11-11 — integrated-resonance-laboratory
+
+- target: replacement banner concept, no public deployment
+- operator: Nils Wendelboe Holmager
+- agent: model identity not exposed; Copilot SDK in VS Code
+- skill: Intent, Improve, Engineering Preferences, Trail
+- outcome: pre-generation checkpoint
+
+### Interpretation and decision
+
+I swung too far into abstraction. You want the recognizable laboratory and
+you at the desk, but with the ideas built into one connected invention—not
+objects placed beside it. I'll make the machinery itself a magnificent stringed
+instrument, with the canary's song, hearing mechanisms and life-sustaining pumps
+visibly participating in how it works.
+
+[!REVERSAL] The prior concept removed recognizability when the owner wanted
+integration. Preserve the inventor, laboratory and mechanical visual language.
+[!DECISION] Rebuild the central machine as a giant stringed resonator with
+connected acoustic receivers, circulating pump chambers and world-building
+outputs. Reject both the separate-object display and the generic fantasy valley.
+Precedent check: latest owner correction explicitly resolves this distinction;
+the previous trail's no-recognizable-elements criterion no longer governs.
+
+Prediction: one reference-based image reads as a laboratory with an inventor
+and a coherent connected machine, whose stringed musical structure and other
+functions are recognizable rather than displayed on independent plinths.
+Inspect the output against that composition before reporting; do not publish.
+
+### Candidate Next Moves
+
+1. Owner judgment of this integrated laboratory precedes publication.
+
+### Outcome and reflection
+
+Generated and visually inspected one new reference-based image. The inventor
+and laboratory return. A giant wooden stringed resonator forms the central
+machine housing, with its glass idea chamber embedded in the same frame.
+The singing canary faces a connected acoustic receiver; red/blue pulse chambers
+sit inside the engine base. Shared conduits extend into the miniature kingdom,
+and structural arms connect the globe. This meets the predicted structural
+integration, without proving owner preference or engineering plausibility.
+The ivory acoustic shell remains particularly literal; the owner may judge
+that balance differently. No public banner or README changed.
+
+[!REALIZATION] The useful distinction is recognizable functions sharing a
+structure, not literal representation versus abstraction. The prior valley
+lost the personal laboratory; the former display lacked shared function.
+
+- *Recurring finding-class:* fired - the last two corrections both reject
+  the degree of integration, from opposite sides.
+- *About to declare silence:* not fired - a new concept was generated.
+- *Contradicts prior realization:* fired - eliminating recognizable forms
+  did not achieve the intended fusion.
+- *Operator explicitly asked:* not fired - image revision, not retrospective.
+
+Across-trail reflection: color and laboratory atmosphere have remained stable
+positive evidence. The binary assumption that fusion requires abstraction was
+wrong; the owner's giant-instrument example supplies a concrete alternative.
+The new concept tests that example directly rather than adding more themes.
+Blind spot: no owner acceptance yet; apparent connections in generated art
+are visual storytelling, not mechanically validated designs.
+
+Destination need: not triggered - latest correction settles this iteration.
+Orientation freshness: current - no stored orientation; this entry supersedes
+the previous prohibition on recognizable objects.
