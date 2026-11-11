@@ -252,3 +252,19 @@ A new asset name prevents stale banner-cache ambiguity; the old image remains
 recoverable in Git history. Only the README's first line changes; alt text
 describes the imagined workshop without disclosing private family context.
 Verification of actual GitHub rendering and exact public bytes follows.
+
+### Verified publication
+
+Publishedbc597e9. Actual public GitHub rendering decoded2058x764 at both
+1280px and390px viewports (846px/308px banner width), without overflow or crop.
+Inspected the captured desktop/phone images: the hearing aid and two separate
+cardiac exhibits have substantial foreground positions; fine detail requires
+the working full-size image link on a phone. Public raw image bytes exactly
+match the814,120-byte local asset. An initial unchanged-text assertion compared
+Git LF with Windows working-tree CRLF and failed; comparing both committed Git
+blobs confirmed the entire README body after line1 is exactly unchanged.
+No additional image generation, other profile edits or private-record upload.
+
+The operational prediction held. This is a stylized personal illustration,
+not clinically accurate device documentation or evidence of product authorship.
+The owner's judgment of beauty remains the acceptance bar beyond these checks.
