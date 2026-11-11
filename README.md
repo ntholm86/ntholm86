@@ -1,4 +1,4 @@
-<a href="https://github.com/ntholm86/ntholm86/blob/main/assets/workshop-banner.webp"><img src="assets/workshop-banner.webp" width="100%" alt="Nils Holmager's illustrated invention workshop: a colorful idea machine, helper automatons, a decision ledger, a forest game world, a connected globe and a dog-walking garden. Open to explore the full-size illustration."></a>
+<a href="https://github.com/ntholm86/ntholm86/blob/main/assets/workshop-medical-banner.webp"><img src="assets/workshop-medical-banner.webp" width="100%" alt="Nils Holmager's imagined engineering workshop: a hearing-aid workbench, stylized cardiac-device exhibits, colorful idea machinery, helper automatons, a ledger, miniature game world, connected globe and walking garden. Open to explore the full-size illustration."></a>
 
 I build software people can use, and research how AI systems can do work people can take responsibility for.
 

@@ -172,3 +172,83 @@ local741,878-byte asset. The README body after its first line is byte-for-byte
 unchanged from the preceding commit. No further image generation was needed.
 This satisfies the rendering prediction, not a claim that the owner will prefer
 the artwork; their aesthetic judgment remains authoritative.
+
+## 2026-11-11 — workshop-medical-and-human-purpose
+
+- target: profile banner illustration only
+- operator: Nils Wendelboe Holmager
+- agent: model identity not exposed; Copilot SDK in VS Code
+- skill: Intent, Improve, Engineering Preferences
+- outcome: pre-generation checkpoint
+
+### Interpretation and examination
+
+Keep the approved illustrated world, colors and craftsmanship, but represent
+medical-device engineering as an important part of the story. Read the
+operator-designated local context and bounded project summaries locally.
+Private medical, career-planning and household records must not enter this
+public repository, the image prompt or external queries. No source records or
+personal photos will be supplied to generation. Generic visual motifs only.
+
+The broader project review covered existing public agent memory, idea evolution,
+rendering and game work, plus local planning summaries. Publicly approved
+product worlds remain; no confidential implementation details, unpublished
+product identity or performance superlatives are added to the illustration.
+The medical visual reference is a public manufacturer description:
+https://www.berlinheart.de/en/medical-professionals/excorr-pediatric/
+It distinguishes pulsatile external ventricular assistance from total artificial
+heart replacement. Do not equate the two or depict speculative research as
+an available permanent clinical solution.
+
+### Decision and prediction
+
+[!DECISION] Add a substantial, dignified medical-device atelier with a clearly
+recognizable behind-ear hearing aid and a separate transparent external
+pulsatile support-pump exhibit and conceptual mechanical heart. Integrate with
+the connected workshop, not a medical logo collage or bedside scene.
+Reject red heart icons as a substitute for devices, and reject clinical
+claims, patient depiction, personal identifiers and employer/manufacturer logos.
+Precedent check: the prior image was explicitly liked; preserve its visual
+language rather than replacing it with a clinical corporate style.
+The previously approved available generator remains in use; no Flare2.5
+selection is available or claimed.
+
+Prediction: one reference-based illustration retains the nameplate, inventor,
+colorful idea machinery, bots, ledger, globe, game forest and walking garden,
+while adding visible hearing-aid and cardiac-device silhouettes. Render whole
+image without crop, inspect the actual medical area, then verify GitHub desktop/
+phone decoding and exact public bytes. No surrounding profile claims change.
+
+### Reflection and triggers
+
+The workshop should communicate human purpose as well as invention. More detail
+earns its place through meaningful discoveries, not by implying every pictured
+device was invented by the profile owner. Blind spot: stylized image generation
+may distort small medical components; inspect rather than claim technical fidelity.
+
+- *Recurring finding-class:* not fired - the preceding rejected minimalism
+  was followed by explicit approval of the replacement's style.
+- *About to declare silence:* not fired - adding requested story elements.
+- *Contradicts prior realization:* not fired - preserve the approved rich image.
+- *Operator explicitly asked:* not fired - deeper project examination, not an
+  arc-level process retrospective.
+
+Destination need: not triggered - current banner mandate is explicit.
+Orientation freshness: current - no stored target orientation; current feedback governs.
+
+### Generated outcome before publication
+
+One reference-based image preserved the approved palette and world, adding
+three large foreground exhibits: an ivory/teal hearing aid with receiver wire
+and dome, a round transparent pulsatile pump, and a distinct stylized mechanical
+heart under glass. Additional greenhouse, library and luminous bird motifs
+reward exploration without adding unpublished project names. Medical exhibits
+are imaginative symbols, not technically validated designs or authored products.
+The image contains no patient, personal medical details or manufacturer logos.
+No private source content was supplied to generation or public queries.
+
+Encoded the complete2058x764 panorama as814,120-byte WebP, quality0.91.
+A new asset name prevents stale banner-cache ambiguity; the old image remains
+recoverable in Git history. Only the README's first line changes; alt text
+describes the imagined workshop without disclosing private family context.
+Verification of actual GitHub rendering and exact public bytes follows.
