@@ -10,7 +10,7 @@ Senior Engineer at WSAudiology · Copenhagen, Denmark. The projects and research
 
 - **[Principles of Earned Autonomy](https://github.com/ntholm86/principles-of-earned-autonomy)** — What makes delegation to an AI agent justified? A proposed framework connecting operator intent, observable autonomy and independent challenge.
 - **[PEA Skills Suite](https://github.com/ntholm86/principles-of-earned-autonomy-skills-suite)** — The working practice: open agent skills for intent, improvement, verification and retained decision records.
-- **[Agent Context Memory](https://github.com/ntholm86/agent-context-memory)** — Persistent context across sessions, without losing human authority. A governance-first memory specification.
+- **[Shared Agent Context Memory](https://github.com/ntholm86/shared-agent-context-memory)** — Persistent context across sessions, without losing human authority. A governance-first memory specification, for one person or a team.
 
 These are connected contributions, not interchangeable names. The framework is a proposal; the skills are experimental and host/model-dependent.
 
