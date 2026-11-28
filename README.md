@@ -20,7 +20,7 @@ Senior Engineer at WSAudiology · Copenhagen, Denmark. The projects and research
 4. **[AI Steward](https://github.com/ntholm86/ai-steward)**
    The autonomous code-improvement loop. It applies operator-held direction, bounded work, verification and evidence in a practical engineering environment.
 
-5. **[LLM Harness Proxy](https://github.com/ntholm86/llm-harness-proxy)**
+5. **[Agent Evidence Proxy](https://github.com/ntholm86/agent-evidence-proxy)**
    The independent capture layer. This Rust proxy records LLM interactions in a hash-chained ledger before releasing a response.
 
 These are connected contributions, not interchangeable names. PEA defines the constraints. ACS supplies agent cognition. ACM supplies governed continuity. AI Steward exercises the loop in code. The proxy supplies evidence outside the observed agent's authorship.

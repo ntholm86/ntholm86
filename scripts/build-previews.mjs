@@ -4,7 +4,7 @@ const projects = [
   ['principles-of-earned-autonomy', '01 / GOVERNANCE FRAMEWORK', ['Principles of', 'Earned Autonomy'], 'Human direction. Observable work. Independent challenge.', '#214bd6'],
   ['agent-cognition-skills', '02 / GENERAL-PURPOSE COGNITION SKILLS', ['Agent Cognition Skills'], 'Interpret intent. Improve. Verify. Retain the decision record.', '#008b83'],
   ['agent-context-memory', '03 / MEMORY SPECIFICATION', ['Agent Context', 'Memory'], 'Persistent context. Human authority.', '#7655b5'],
-  ['llm-harness-proxy', '04 / EVIDENCE INFRASTRUCTURE', ['LLM Harness Proxy'], 'Capture the interaction outside the audited agent.', '#214bd6'],
+  ['agent-evidence-proxy', '04 / EVIDENCE INFRASTRUCTURE', ['Agent Evidence Proxy'], 'Capture the interaction outside the audited agent.', '#214bd6'],
   ['ai-steward', '05 / CODE IMPROVEMENT', ['AI Steward'], 'An improvement loop with inspectable evidence.', '#008b83'],
   ['vectorium-engine', '06 / TYPESCRIPT + WEBGL', ['Vectorium Engine'], 'Data-oriented rendering for interactive worlds.', '#7655b5'],
 ]
