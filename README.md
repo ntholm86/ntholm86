@@ -8,22 +8,14 @@ Senior Engineer at WSAudiology · Copenhagen, Denmark. The projects and research
 
 ## The connected research stack
 
-1. **[Principles of Earned Autonomy](https://github.com/ntholm86/principles-of-earned-autonomy)**
-   The governance framework. It asks when delegation to an AI agent is justified and connects human direction, observable work and independent challenge.
+1. **[Augmented Individual Intelligence (AII)](https://doi.org/10.5281/zenodo.18417872)** - A framework for continuous human and AI cognitive partnership.
+2. **[Principles of Earned Autonomy (PEA)](https://github.com/ntholm86/principles-of-earned-autonomy)** - A governance framework for justified delegation to autonomous agents.
+3. **[Agent Cognition Skills (ACS)](https://github.com/ntholm86/agent-cognition-skills)** - General-purpose skills for agent intent, goal, improvement, recording and learning.
+4. **[Agent Context Memory (ACM)](https://github.com/ntholm86/agent-context-memory)** - A specification for persistent, governed context across agents and sessions.
+5. **[AI Steward](https://github.com/ntholm86/ai-steward)** - An autonomous code-improvement loop with operator-held direction and verification.
+6. **[Agent Evidence Proxy (AEP)](https://github.com/ntholm86/agent-evidence-proxy)** - A fail-closed proxy for independently captured, hash-chained LLM evidence.
 
-2. **[Agent Cognition Skills (ACS)](https://github.com/ntholm86/agent-cognition-skills)**
-   The general-purpose cognitive skills. They give an agent explicit ways to interpret intent, set goals, improve work, retain decisions and learn across runs.
-
-3. **[Agent Context Memory (ACM)](https://github.com/ntholm86/agent-context-memory)**
-   The memory specification. It keeps authority, decisions and evidence distinct across sessions. A team uses the same model as Shared ACM.
-
-4. **[AI Steward](https://github.com/ntholm86/ai-steward)**
-   The autonomous code-improvement loop. It applies operator-held direction, bounded work, verification and evidence in a practical engineering environment.
-
-5. **[Agent Evidence Proxy](https://github.com/ntholm86/agent-evidence-proxy)**
-   The independent capture layer. This Rust proxy records LLM interactions in a hash-chained ledger before releasing a response.
-
-These are connected contributions, not interchangeable names. PEA defines the constraints. ACS supplies agent cognition. ACM supplies governed continuity. AI Steward exercises the loop in code. The proxy supplies evidence outside the observed agent's authorship.
+These are connected contributions, not interchangeable names: AII defines the human-AI relationship, PEA governs delegation, ACS supplies cognition, ACM supplies continuity, AI Steward applies the loop to code, and AEP captures independent evidence.
 
 The framework and skills remain research proposals and host/model-dependent implementations. Claims are bounded by their published evidence.
 
